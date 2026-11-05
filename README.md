@@ -8,14 +8,14 @@ To write a Python program that calculates the total and average marks of a stude
 
 1. Start the program.
 2. Display the heading "STUDENT GRADE CALCULATOR".
-3. Initialize the variable `total` to 0.
-4. Use a `for` loop to accept marks for five subjects.
+3. Initialize the variable total to 0.
+4. Use a for loop to accept marks for five subjects.
 5. Check whether the entered marks are between 0 and 100.
-6. If the marks are invalid, display an error message and skip that iteration using the `continue` statement.
+6. If the marks are invalid, display an error message and skip that iteration using the continue statement.
 7. If the marks are valid, add them to the total.
 8. Calculate the average by dividing the total marks by 5.
 9. Display the total marks and average.
-10. Use `if-elif-else` statements to assign a grade based on the average:
+10. Use if-elif-else statements to assign a grade based on the average:
     - 90 and above – A+
     - 80 to 89 – A
     - 70 to 79 – B
